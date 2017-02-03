@@ -1,0 +1,16 @@
+@media screen and (max-width: 350px)
+{
+    #adcopy-outer
+    {
+        width: 200px !important;
+    }
+    #adcopy-puzzle-image, #adcopy-puzzle-image img
+    {
+        width: 200px !important;
+        height: 100px !important;
+    }
+    #adcopy-outer #adcopy-response-cell input#adcopy_response
+    {
+        width: 100px !important;
+    }
+}
